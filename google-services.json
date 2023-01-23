@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529155083041",
+    "project_id": "penssum-apk-a272e",
+    "storage_bucket": "penssum-apk-a272e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529155083041:android:20f879a4585bdfd7ba4c60",
+        "android_client_info": {
+          "package_name": "com.penssum.admin.apk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529155083041-aot769o6ok53l3qjn2iln7fq3csrpl61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWWK3QgdYwu-CYsT4ZUCUAWXrZfMvAjVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529155083041-aot769o6ok53l3qjn2iln7fq3csrpl61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
